@@ -7,8 +7,8 @@ Mostly just changed the background, added more icons, and updated the config (th
 Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
 
 <p align="center">
-  <img src="https://github.com/0lswitcher/0los-grub-theme/blob/main/md-assets/IMAGE.png"
-   style="width: 50%; height: 50%">
+  <img src="https://github.com/0lswitcher/0los-grub-theme/blob/master/md-assets/IMG_1863.jpeg"
+   style="width: 100%; height: 100%">
 </p>
 
 ---
