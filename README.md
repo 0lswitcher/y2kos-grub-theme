@@ -1,8 +1,15 @@
-## Fallout GRUB theme
+## 0lOS GRUB theme
+
+Forked from [shvchk's](https://github.com/shvchk) [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme).  
+
+Mostly just changed the background, added more icons, and updated the config (theme.txt) a bit.  
 
 Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
 
-![](https://i.imgur.com/7LUYwTn.gif)
+<p align="center">
+  <img src="https://github.com/0lswitcher/0los-grub-theme/blob/main/md-assets/IMAGE.png"
+   style="width: 50%; height: 50%">
+</p>
 
 ---
 
@@ -49,7 +56,6 @@ Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install
 
 ---
 
-### See also
+### Credit
 
-- [Poly light GRUB theme](https://github.com/shvchk/poly-light)
-- [Poly dark GRUB theme](https://github.com/shvchk/poly-dark)
+- [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme)

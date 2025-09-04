@@ -3,7 +3,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-GRUB_THEME='fallout-grub-theme'
+GRUB_THEME='0los-grub-theme'
 INSTALLER_LANG='English'
 
 # Check dependencies
