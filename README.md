@@ -1,4 +1,6 @@
-## 0lOS GRUB theme
+## Y2KOS GRUB Theme
+
+> *(previously known as 0lOS GRUB Theme)*
 
 Forked from [shvchk's](https://github.com/shvchk) [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme).  
 
