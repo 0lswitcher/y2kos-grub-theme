@@ -1,6 +1,6 @@
 ## Y2KOS GRUB Theme
 
-> *(previously known as 0lOS GRUB Theme)*
+> **previously known as 0lOS GRUB Theme** - *changed to match my custom nixos iso*
 
 Forked from [shvchk's](https://github.com/shvchk) [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme).  
 
