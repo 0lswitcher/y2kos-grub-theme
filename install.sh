@@ -3,7 +3,7 @@
 set -euo pipefail
 IFS=$'\n\t'
 
-GRUB_THEME='0los-grub-theme'
+GRUB_THEME='y2kos-grub-theme'
 INSTALLER_LANG='English'
 
 # Check dependencies
