@@ -1,8 +1,8 @@
-## Y2KOS GRUB Theme
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&duration=2500&pause=1000&color=B277F7&vCenter=true&width=1920&height=100&lines=Y2KOS+GRUB+Theme)](https://git.io/typing-svg)
 
 > **previously known as 0lOS GRUB Theme** - *changed to match my custom nixos iso*
 
-Forked from [shvchk's](https://github.com/shvchk) [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme).  
+Forked from [shvchk's](https://github.com/shvchk) [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme).
 
 Mostly just changed the background, added more icons, and updated the config (theme.txt) a bit.  
 
