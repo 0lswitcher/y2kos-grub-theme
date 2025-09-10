@@ -13,6 +13,8 @@ Supported languages: Chinese (simplified), Chinese (traditional), English, Frenc
    style="width: 100%; height: 100%">
 </p>
 
+> *I need to update the background image for the new version, will do when I have less projects*
+
 ---
 
 
