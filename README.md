@@ -8,8 +8,15 @@ Mostly just changed the background, added more icons, and updated the config (th
 
 Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
 
+> *Just the Background*
 <p align="center">
-  <img src="https://github.com/0lswitcher/0los-grub-theme/blob/master/md-assets/y2kos-bg.png"
+  <img src="md-assets/y2kos-bg.png"
+   style="width: 100%; height: 100%">
+</p>
+
+> *Ventoy*
+<p align="center">
+  <img src="md-assets/y2kos-ventoy.png"
    style="width: 100%; height: 100%">
 </p>
 
