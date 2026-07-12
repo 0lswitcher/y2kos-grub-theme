@@ -62,4 +62,4 @@ Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install
 
 ### Credit
 
-- [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme)
+- Shoutout to [shvck](https://github.com/shvchk) for the [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme) that this theme is based off of and originally forked from. You can also find it on [openDesktop](https://www.opendesktop.org/p/1230882) Show them some love!
