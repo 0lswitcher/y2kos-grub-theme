@@ -20,6 +20,11 @@ Supported languages: Chinese (simplified), Chinese (traditional), English, Frenc
    style="width: 100%; height: 100%">
 </p>
 
+> [!NOTE]
+> Icons have been somewhat inconsistent-showing up sometimes but not others depending on a variety of factors.
+> More testing NTB done for this on a lot of different machines, so I will remove this disclaimer when I know it's stable.
+> In the meantime, feel free to open a PR, any contributions are welcome :)
+
 ---
 
 ### Installation / update
@@ -66,4 +71,4 @@ Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install
 
 ### Credit
 
-- Shoutout to [shvck](https://github.com/shvchk) for the [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme) that this theme is based off of and originally forked from. You can also find it on [openDesktop](https://www.opendesktop.org/p/1230882) Show them some love!
+- Shoutout to [shvck](https://github.com/shvchk) for the [Fallout GRUB Theme](https://github.com/shvchk/fallout-grub-theme) that this theme is based off of and originally forked from. You can also find it on [openDesktop](https://www.opendesktop.org/p/1230882). Show them some love!
